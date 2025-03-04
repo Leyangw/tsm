@@ -67,10 +67,10 @@ Note that Loggle method was run and results were collected separately from the r
 If you find our paper, code, and/or data useful for your research, please cite our paper:
 
 ```
-@article{williams2025high,
+@inproceedings{williams2025high,
   title={High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching},
   author={Williams, Daniel J and Wang, Leyang and Ying, Qizhen and Liu, Song and Kolar, Mladen},
-  journal={International Conference on Artificial Intelligence and Statistics},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
   year={2025}
 }
 ```
