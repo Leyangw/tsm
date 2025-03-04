@@ -26,8 +26,8 @@ cd tsm
 We recommend creating a virtual environment with something such as anaconda, with Python version 3.11.4, e.g. in bash
 
 ```bash
-conda create -n tsmde python=3.11.4 ipython
-conda activate tsmde
+conda create -n tsm python=3.11.4 ipython
+conda activate tsm
 ```
 
 and installing required packages given with the `requirements.txt` file
