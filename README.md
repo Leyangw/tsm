@@ -23,21 +23,18 @@ cd tsm
 
 ### Create the Conda Environment
 
-To create the Conda environment with all the required dependencies, run:
+We recommend creating a virtual environment with something such as anaconda, with Python version 3.11.4, e.g. in bash
 
 ```bash
-conda env create -f environment.yaml
+conda create -n tsmde python=3.11.4 ipython
+conda activate tsmde
 ```
 
-This command will read the `environment.yaml` file in the repository, which contains all the necessary package information.
-
-### Activate the Environment
-
-After creating the environment, you can activate it by running:
-
-```bash
-conda activate tsm
+and installing required packages given with the `requirements.txt` file
 ```
+pip install -r requirements.txt
+``````
+to ensure every package is installed correctly for this repo. 
 
 
 ## Current Folder
@@ -65,4 +62,15 @@ loggle/
 ```
 Note that Loggle method was run and results were collected separately from the rest methods as it requires a special R environment. 
 
+## Citation
 
+If you find our paper, code, and/or data useful for your research, please cite our paper:
+
+```
+@article{williams2025high,
+  title={High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching},
+  author={Williams, Daniel J and Wang, Leyang and Ying, Qizhen and Liu, Song and Kolar, Mladen},
+  journal={International Conference on Artificial Intelligence and Statistics},
+  year={2025}
+}
+```
