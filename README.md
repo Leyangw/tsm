@@ -1,4 +1,4 @@
-# Code for High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching
+# High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching (AISTATS 2025)
 
 ## Current Folder
 
