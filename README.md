@@ -4,7 +4,7 @@
 
 Official Python implementation of the paper [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://arxiv.org/abs/2410.10637), published at AISTATS 2025.
 
-In this paper, we introduce an method that tackle the differential parameter estimation in exponential family in a continuous setting.  The main idea is treating the time score function of an exponential family model as a linear model of the differential parameter for direct estimation. We use time score matching to estimate parameter derivatives.
+In this paper, we introduce a method that tackle the differential parameter estimation in exponential family in a continuous setting.  The main idea is treating the time score function of an exponential family model as a linear model of the differential parameter for direct estimation. We use time score matching to estimate parameter derivatives.
 
 ## Prerequisites
 
