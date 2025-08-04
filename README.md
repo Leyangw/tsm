@@ -1,7 +1,7 @@
 # High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching (AISTATS 2025)
 
 [![Paper](https://img.shields.io/badge/paper-arxiv.2410.10637-B31B1B.svg)](https://arxiv.org/abs/2410.10637)
-[![AISTATS 2025](https://img.shields.io/badge/paper-PMLR.v258-0033CC.svg)](https://proceedings.mlr.press/v258/williams25a.html)
+[![PMLR v258 – AISTATS 2025](https://img.shields.io/badge/paper-PMLR.v258-0033CC.svg)](https://proceedings.mlr.press/v258/williams25a.html)
 
 Official Python implementation of the paper [High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching](https://arxiv.org/abs/2410.10637), published at AISTATS 2025.
 
@@ -79,6 +79,7 @@ If you find our paper, code, and/or data useful for your research, please cite o
   year={2025}
 }
 ```
+
 
 
 
